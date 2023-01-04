@@ -8,7 +8,7 @@ function App() {
 	const [count, setCount] = useState(0);
 
 	return (
-		<div className="min-h-screen min-w-screen flex  bg-[#120729] overflow-y-hidden">
+		<div className="min-h-screen min-w-screen flex  bg-[#120729] overflow-x-hidden">
 			<div className="w-screen h-auto">
 				<NavBar />
 				<Presentation />

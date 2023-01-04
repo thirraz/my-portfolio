@@ -19,7 +19,7 @@ export const Projects = () => {
 			<h2 className="text-[#ee79b6] font-Raleway text-center mb-12 uppercase text-[2rem]">
 				Some Projects
 			</h2>
-			<div className="max-w-screen h-auto flex flex-col md:flex-row flex-wrap items-center justify-center">
+			<div className=" h-auto flex flex-col md:flex-row flex-wrap items-center justify-center">
 				<ProjectCard
 					link="https://soft-pie-7a805a.netlify.app/"
 					thumb={p1Thumb}
